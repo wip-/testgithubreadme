@@ -1,21 +1,6 @@
-This file is Root's Readme.txt
-================================
+This project is cool.
 
-lauren ipsispsosj
+Testing inclusion:
 
-Disclaimer
-==========
+./subfolder/README.txt
 
-This readme is provided as-is, with no support from ...
-
-Usage
-=====
-
-Add the readme to your project 
-
-
-* other steps:
-profit
-
-* etc
-the end
